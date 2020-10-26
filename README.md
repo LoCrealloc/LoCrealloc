@@ -12,6 +12,10 @@
 
 <br />
 
+*It is a great idea to klick on those icons I guess!*
+
+<br />
+
 <img align="center" src="https://media.giphy.com/media/TQP42AzHP2l9gM0yM1/giphy.gif" />
 
 <br />
