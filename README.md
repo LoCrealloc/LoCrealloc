@@ -10,6 +10,8 @@
   <img align="left" alt="My YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/youtube.svg" />
 </a>
 
+<br />
+
 <img align="center" src="https://media.giphy.com/media/TQP42AzHP2l9gM0yM1/giphy.gif" />
 
 <br />
