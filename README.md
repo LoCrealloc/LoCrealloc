@@ -12,7 +12,7 @@
 
 <br />
 
-<p align="left>It is a great idea to klick on those icons I guess!</p>
+<p align="left">It is a great idea to klick on those icons I guess!</p>
 
 <br />
 
