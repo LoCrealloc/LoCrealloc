@@ -1,22 +1,7 @@
 ## Hey, I am LoC, a student and nerd who loves to code, from Germany!
 
-<a href="https://discord.gg/Sx2saFx">
-    <img align="left" alt="NorthDiscord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://www.reddit.com/user/LoC_realloc">
-  <img align="left" alt="My Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCtUGKzljTlHIG-COUkMd8lw">
-  <img align="left" alt="My YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/youtube.svg" />
-</a>
-
 <br />
 
-<p></p>
-
-<br />
-
-<br />
 
 ### Okay, now really, who am I?
 
