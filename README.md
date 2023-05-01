@@ -1,7 +1,8 @@
 ## Hey, I am LoC, a student and nerd who loves to code, from Germany!
 
 <br />
-![A gif welcoming visitors](https://github.com/LoCrealloc/LoCrealloc/blob/322295c96c69738874cba6d529ed69465c69b4f8/github.gif)
+![](https://github.com/LoCrealloc/LoCrealloc/blob/main/github.gif)
+<br />
 
 ### Okay, now really, who am I?
 
